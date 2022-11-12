@@ -1,0 +1,6 @@
+2022-10-11/19:59:03		Tables created successfully!!
+2022-10-11/20:41:41		Error while creating table: table Good_Raw_Data already exists 
+2022-10-11/20:43:08		Error while creating table: table Good_Raw_Data already exists 
+2022-10-11/20:46:04		Error while creating table: table Good_Raw_Data already exists 
+2022-10-11/21:28:12		Tables created successfully!!
+2022-10-11/21:36:24		Tables created successfully!!
